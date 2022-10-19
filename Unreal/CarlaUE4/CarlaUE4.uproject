@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{257C40EC-4A74-08BF-AC3E-5A9759E9595D}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -107,6 +107,26 @@
 		},
 		{
 			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "RoadRunnerCarlaIntegration",
+			"Enabled": true
+		},
+		{
+			"Name": "RoadRunnerCarlaDatasmith",
+			"Enabled": true
+		},
+		{
+			"Name": "RoadRunnerDatasmith",
+			"Enabled": false
+		},
+		{
+			"Name": "RoadRunnerImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "RoadRunnerRuntime",
 			"Enabled": true
 		}
 	]
